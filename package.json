@@ -1,5 +1,5 @@
 {
-  "name": "EMINEM-MD",
+  "name": "KEITH-MD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
   "main": "index.js",
@@ -13,8 +13,8 @@
     "baileys-md",
     "whatsapp-multi-device"
   ],
-  "author": "toxyic",
-  "license": "GNU",
+  "author": "keith",
+  "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",   
     "@google/generative-ai": "^0.1.3",
@@ -67,4 +67,8 @@
     "type": "git",
     "url": "git+https://github.com/Keithkeizzah/KEITH-MD.git"
   },
-  
+  "bugs": {
+    "url": "https://github.com/Keithkeizzah/KEITH-MD/issues"
+  },
+  "homepage": "https://github.com/Keithkeizzah/KEITH-MD#readme"
+  }
